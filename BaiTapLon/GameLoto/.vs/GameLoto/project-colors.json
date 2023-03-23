@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ada6ca9e-7bb6-4109-ac13-daf482a8cec2": {
+      "ProjectGuid": "ada6ca9e-7bb6-4109-ac13-daf482a8cec2",
+      "DisplayName": "GameLoto",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

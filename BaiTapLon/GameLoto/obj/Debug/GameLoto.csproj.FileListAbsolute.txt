@@ -1,0 +1,13 @@
+D:\C#\BaiTapLon\GameLoto\bin\Debug\GameLoto.exe.config
+D:\C#\BaiTapLon\GameLoto\bin\Debug\GameLoto.exe
+D:\C#\BaiTapLon\GameLoto\bin\Debug\GameLoto.pdb
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.csproj.AssemblyReference.cache
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.Properties.Resources.resources
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.csproj.GenerateResource.cache
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.csproj.CoreCompileInputs.cache
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.exe
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.pdb
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.FrmGameMode.resources
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.FrmMenu.resources
+D:\C#\BaiTapLon\GameLoto\obj\Debug\GameLoto.FrmMain.resources
